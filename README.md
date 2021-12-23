@@ -1,8 +1,9 @@
 ### Hi!! Eu sou a Luanna 👋
 
 
-- 🔭 Formada em Economia, descobrindo a area de TI
-- 🌱 Aprendendo HTML, CSS, JavaScript...
+- 🔭 Formada em Economia com mestrado em Ciência da Propriedade Intelectual
+- 🔎 Engenheira de dados
+- 🌱 Python, SQL, GCP...
 - 😄 Pronouns: Ela/Dela
 
 <div>
