@@ -15,7 +15,18 @@
 </div>
 
 ##
+  
+<div> 
+<img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
+<img align="center" alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
+<img align="center" alt="mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> 
+<img align="center" alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
+<img align="center" alt="azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> 
+<img align="center" alt="gcp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
+</div> 
 
+  ##
+  
 <div> 
 <a href="https://www.linkedin.com/in/luanna-morais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/Luanna Pereira de Morais#1915" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -23,15 +34,5 @@
   <a href="https://instagram.com/luanna_dpereira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-  ##
   
- <div> 
-<img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
-<img align="center" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
-<img align="center" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> 
-<img align="center" alt="pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
-<img align="center" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> 
-<img align="center" alt="gcp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
-<img align="center" alt="databricks" height="30" width="40" src="https://www.pikpng.com/pngl/m/392-3922727_databricks-is-giving-users-a-set-of-new.png"> 
-<img align="center" alt="apache" height="30" width="40" src="https://e7.pngegg.com/pngimages/851/797/png-clipart-apache-spark-apache-hadoop-big-data-scala-apache-http-server-spark-miscellaneous-text-thumbnail.png"> 
-</div> 
+ 
